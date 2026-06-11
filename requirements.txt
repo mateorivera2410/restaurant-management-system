@@ -1,0 +1,6 @@
+# No external dependencies required
+
+# This project uses standard Python libraries:
+# tkinter
+# json
+# os
